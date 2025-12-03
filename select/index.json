@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ツーピーカラー",
+  "base_artist": "いよわ",
+  "createdAt": "2025-12-03T07:53:38.092093Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツーピーカラー",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_ツーピーカラー_いよわ.txt"
+    }
+  ]
+}
